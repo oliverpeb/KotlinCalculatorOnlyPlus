@@ -15,10 +15,6 @@ class MainActivity : AppCompatActivity() {
         val view: View = binding.root
         setContentView(view)
 
-    binding.editTextFirstNumber.setOnClickListener {
-
-
-    }
 
     binding.buttonEquals.setOnClickListener {
 
